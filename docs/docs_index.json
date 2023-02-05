@@ -1,6 +1,6 @@
 [
   {
-    "desc": "Sync the state of mute between the system and appliccations (Zoom, Teams).",
+    "desc": "Sync the mic's mute state between the system and Microsoft Teams.",
     "name": "MuteSync",
     "type": "Module"
   },

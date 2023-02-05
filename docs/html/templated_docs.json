@@ -22,10 +22,10 @@
         "type": "Variable"
       }
     ],
-    "desc": "Sync the state of mute between the system and appliccations (Zoom, Teams).",
-    "desc_gfm": "<p>Sync the state of mute between the system and appliccations (Zoom, Teams).</p>\n",
-    "doc": "Sync the state of mute between the system and appliccations (Zoom, Teams).\n\nDownload: https://github.com/guildencrantz/MuteSync.spoon/releases",
-    "doc_gfm": "<p>Sync the state of mute between the system and appliccations (Zoom, Teams).</p>\n<p>Download: https://github.com/guildencrantz/MuteSync.spoon/releases</p>\n",
+    "desc": "Sync the mic's mute state between the system and Microsoft Teams.",
+    "desc_gfm": "<p>Sync the mic's mute state between the system and Microsoft Teams.</p>\n",
+    "doc": "Sync the mic's mute state between the system and Microsoft Teams.\n\nDownload: https://github.com/guildencrantz/MuteSync.spoon/releases",
+    "doc_gfm": "<p>Sync the mic's mute state between the system and Microsoft Teams.</p>\n<p>Download: https://github.com/guildencrantz/MuteSync.spoon/releases</p>\n",
     "items": [
       {
         "def": "MuteSync.logger",

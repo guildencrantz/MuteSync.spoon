@@ -16,4 +16,4 @@
 ## API Documentation
 | Module                                                             | Description           |
 | ------------------------------------------------------------------ | --------------------- |
-| [MuteSync](MuteSync.md)                          | Sync the state of mute between the system and appliccations (Zoom, Teams).     |
+| [MuteSync](MuteSync.md)                          | Sync the mic's mute state between the system and Microsoft Teams.     |

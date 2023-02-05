@@ -1,6 +1,6 @@
 --- === MuteSync ===
 ---
---- Sync the state of mute between the system and appliccations (Zoom, Teams).
+--- Sync the mic's mute state between the system and Microsoft Teams.
 ---
 --- Download: https://github.com/guildencrantz/MuteSync.spoon/releases
 
