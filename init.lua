@@ -35,6 +35,10 @@ function obj:start()
 end
 
 function obj:stop()
+  for k, v in pairs(obj.apps) do
+    obj.logger.i("Stopping "..k)
+    v:stop()
+  end
 end
 
 
