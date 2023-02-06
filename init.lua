@@ -29,6 +29,7 @@ end
 
 function obj:start()
   for k, v in pairs(obj.apps) do
+    v.logger.setLogLevel(obj.logger:getLogLevel())
     obj.logger.i("Starting "..k)
     v:start()
   end
